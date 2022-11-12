@@ -9,14 +9,13 @@ Este proyecto es con fines totalmente educativos.
 
 ## TO-DO
 
-| Función                        | Descripción                              | Estado                                                        |
-| ------------------------------ | ---------------------------------------- | ------------------------------------------------------------- |
-| Wrappers para Productos        | Contenedor HTML actualizable con los Productos obtenidos.    | Falabella:❌<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Obtención productos aleatorios | Lista de productos ordenados y escogidos de manera aleatoria. | Falabella:🛠️<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Productos por categoría        | Lista de productos obtenidos por su categoría.               | Falabella:✔️<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Productos por nombre           | Lista de productos obtenidos por su nombre.                  | Falabella:🛠️<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Filtros                        | Filtros para ordenar productos; Precio, Envío, etc.          | Falabella:🛠️<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Paginación                     | Paginación del ProductWrapper para tener un orden y evitar sobrecargas en la aplicación. | Falabella:❌<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Exclusión de Tiendas           | Exclusión de tiendas en la búsqueda de Productos             | Falabella:❌<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-| Obtener categorías             | Lista de categorías por página.                              | Falabella:✔️<br />Ripley:❌<br />Paris:❌<br />MercadoLibre:❌ |
-
+| Función                        | Descripción                                                  | Falabella | Ripley | Paris | M.L  |
+| ------------------------------ | ------------------------------------------------------------ | :-------: | :----: | :---: | :--: |
+| Wrappers para Productos        | Contenedor HTML actualizable con los Productos obtenidos.    |     ❌     |   ❌    |   ❌   |  ❌   |
+| Obtención productos aleatorios | Lista de productos ordenados y escogidos de manera aleatoria. |     🛠️     |   ❌    |   ❌   |  ❌   |
+| Productos por categoría        | Lista de productos obtenidos por su categoría.               |     ✔️     |   ❌    |   ❌   |  ❌   |
+| Productos por nombre           | Lista de productos obtenidos por su nombre.                  |     🛠️     |   ❌    |   ❌   |  ❌   |
+| Filtros                        | Filtros para ordenar productos; Precio, Envío, etc.          |     🛠️     |   ❌    |   ❌   |  ❌   |
+| Paginación                     | Paginación del ProductWrapper para tener un orden y evitar sobrecargas en la aplicación. |     ❌     |   ❌    |   ❌   |  ❌   |
+| Exclusión de Tiendas           | Exclusión de tiendas en la búsqueda de Productos             |     ❌     |   ❌    |   ❌   |  ❌   |
+| Obtener categorías             | Lista de categorías por página.                              |     ✔️     |   ❌    |   ❌   |  ❌   |
