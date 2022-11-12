@@ -15,7 +15,7 @@ Este proyecto es con fines totalmente educativos.
 | Obtención productos aleatorios | Lista de productos ordenados y escogidos de manera aleatoria. |     🛠️     |   ❌    |   ❌   |  ❌   |
 | Productos por categoría        | Lista de productos obtenidos por su categoría.               |     ✔️     |   ❌    |   ❌   |  ❌   |
 | Productos por nombre           | Lista de productos obtenidos por su nombre.                  |     🛠️     |   ❌    |   ❌   |  ❌   |
-| Filtros                        | Filtros para ordenar productos; Precio, Envío, etc.          |     🛠️     |   ❌    |   ❌   |  ❌   |
+| Filtros                        | Filtros para ordenar productos; Precio, Envío, etc.          |     ❌     |   ❌    |   ❌   |  ❌   |
 | Paginación                     | Paginación del ProductWrapper para tener un orden y evitar sobrecargas en la aplicación. |     ❌     |   ❌    |   ❌   |  ❌   |
 | Exclusión de Tiendas           | Exclusión de tiendas en la búsqueda de Productos             |     ❌     |   ❌    |   ❌   |  ❌   |
 | Obtener categorías             | Lista de categorías por página.                              |     ✔️     |   ❌    |   ❌   |  ❌   |
